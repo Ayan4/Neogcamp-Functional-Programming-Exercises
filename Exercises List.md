@@ -11,6 +11,7 @@
 |7|https://repl.it/@ayanshukla/Number-of-strings-with-similar-characters|
 |8|https://repl.it/@ayanshukla/return-vowels|
 |9|https://repl.it/@ayanshukla/array-of-object-with-key-and-values|
+|10|https://replit.com/@ayanshukla/The-One-Homework#index.js|
 
 # Neogcamp-Async-Exercises
 
